@@ -1,0 +1,1 @@
+M5 A3: Pure human PAT push (no agent involvement, no plugin observation)
